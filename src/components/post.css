@@ -1,0 +1,31 @@
+.post{
+    display: flex;
+    flex-direction: column;
+}
+
+.user_img{
+    border:2px solid rgb(0, 0, 0);
+    border-radius: 2rem;
+    height: 5vh;
+    padding: 0.3vh;
+}
+
+.post_delete_btn{
+    border: none;
+    cursor: pointer;
+    color: crimson;
+    background-color: white;
+    margin-top: 5vh;
+
+}
+.post_delete_btn:focus{
+    outline: none;
+}
+.post_delete_btn:hover{
+    color: rgb(0, 128, 255);
+}
+
+.post_img{
+    width:100%;
+
+}

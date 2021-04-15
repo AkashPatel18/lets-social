@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+.createPost{
+    display: flex;
+    justify-content: center;
+    
+}
+
+/* .image_upload_post > input{
+    /* display: none; */
+
+.post_btn{
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+.post_bottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.post{
+    background-color: white;
+    width: 100%;
+    max-width: 650px;
+    margin-top: 7vh;
+    padding: 12px 16px;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 4px;
+    
+}
+
+@media only screen and (max-width: 600px){
+    .post{
+        width: 90%;
+    }
+}
+.textarea{
+    border: none;
+    width:90%;
+    outline: none;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    
+}
+
+.textarea :focus{
+    outline: none;
+}
+
+#image_preview{
+    display: none;
+    max-width: 400px;
+    max-height: 200px;
+    border-radius: 4px;
+    margin-bottom: 3vh;
+
+}

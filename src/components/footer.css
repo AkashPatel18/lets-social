@@ -1,0 +1,7 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+    color: rgb(20, 126, 168);
+}
