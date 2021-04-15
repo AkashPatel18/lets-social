@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lets-social/static/css/main.dc3ff6d7.chunk.css",
+    "main.js": "/lets-social/static/js/main.cd46e4a0.chunk.js",
+    "main.js.map": "/lets-social/static/js/main.cd46e4a0.chunk.js.map",
+    "runtime-main.js": "/lets-social/static/js/runtime-main.864808d8.js",
+    "runtime-main.js.map": "/lets-social/static/js/runtime-main.864808d8.js.map",
+    "static/js/2.1bef6825.chunk.js": "/lets-social/static/js/2.1bef6825.chunk.js",
+    "static/js/2.1bef6825.chunk.js.map": "/lets-social/static/js/2.1bef6825.chunk.js.map",
+    "index.html": "/lets-social/index.html",
+    "static/css/main.dc3ff6d7.chunk.css.map": "/lets-social/static/css/main.dc3ff6d7.chunk.css.map",
+    "static/js/2.1bef6825.chunk.js.LICENSE.txt": "/lets-social/static/js/2.1bef6825.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.864808d8.js",
+    "static/js/2.1bef6825.chunk.js",
+    "static/css/main.dc3ff6d7.chunk.css",
+    "static/js/main.cd46e4a0.chunk.js"
+  ]
+}
